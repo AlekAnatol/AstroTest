@@ -15,9 +15,6 @@ Performing a test task
 
 [Документация по api](https://docs.github.com/en/rest/gists/gists?apiVersion=2022-11-28#about-gists).
 
-Результаты принимаются только как репозиторий на gitHub. Для удобства, можно сдлеать форк от данного репозитория.
-Присылать на sgaponov@astrosoft.ru.
-
 ### Первый экран приложения
 
 Список гистов, полученных по api
